@@ -11,7 +11,7 @@ export function SendCard() {
   const [amount, setAmount] = useState("");
 
   return (
-    <div className="h-[90vh] ">
+    <div>
       <Center>
         <Card title="Send">
           <div className="min-w-72 pt-2">
